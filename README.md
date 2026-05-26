@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💡 About Me:
 Final year master student at École Polytechnique in Paris!<br>
 
 
