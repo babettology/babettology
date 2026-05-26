@@ -11,6 +11,14 @@ Final year master student at École Polytechnique in Paris!<br>
   </tr>
 </table>
 
+
+## 🔬 Research Interests
+
+![Computational Social Science](https://img.shields.io/badge/Computational%20Social%20Science-0A66C2?style=flat-square)
+![NLP & Political Language](https://img.shields.io/badge/NLP%20%26%20Political%20Language-7952B3?style=flat-square)
+![Data Science × Political Science](https://img.shields.io/badge/Data%20Science%20×%20Political%20Science-0E9C6A?style=flat-square)
+![Human–AI Interaction](https://img.shields.io/badge/Human%E2%80%93AI%20Interaction-D9512C?style=flat-square)
+
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
